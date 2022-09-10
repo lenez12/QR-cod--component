@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Demo Live](http://live.testingalltech.xyz/)
 
 ## My process
 
@@ -43,7 +43,7 @@ what I learned in making this challenge is:
 
 To see how you can add code snippets, see below:
 
-1. use reset.css to reset all default css styles from ![Meyerweb](https://meyerweb.com/eric/tools/css/reset/)
+1. use reset.css to reset all default css styles from [Meyerweb](https://meyerweb.com/eric/tools/css/reset/)
 
 ```css
 .container {
@@ -71,6 +71,6 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@jerylenas](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lenez](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@prak_tech](https://www.twitter.com/prak_tech)
 
