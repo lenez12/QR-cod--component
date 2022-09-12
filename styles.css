@@ -10,12 +10,12 @@ body {
 	font-family: "Outfit", sans-serif;
 }
 
-.container {
+main {
 	padding: 15px;
 	margin: 20px auto;
 	border-radius: 20px;
 	text-align: center;
-	max-width: 300px;
+	max-width: 350px;
 	min-width: 300px;
 	background: white;
 	box-sizing: border-box;
@@ -39,10 +39,6 @@ p {
 	color: gray;
 	margin-bottom: 20px;
 	font-size: 15px;
-}
-
-.text__content {
-	margin: 0 10px 0 10px;
 }
 
 .attribution {
