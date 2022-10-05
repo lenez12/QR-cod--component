@@ -41,6 +41,7 @@ what I learned in making this challenge is:
 
 1. I can find out how to use box-shadow
 2. And also make the component to the middle using flexbox
+3. flex display must use absolute dimensions or container dimension must be absolute
 
 To see how you can add code snippets, see below:
 
